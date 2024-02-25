@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Meshtastic in Bir</title>
-<style>
-  body {
-    background-color: #2ecc71; /* Background color set to #2ecc71 */
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Make the body full height of the viewport */
-  }
-  img {
-    max-width: 40%; /* Ensure the image fits within the viewport */
-    max-height: 40%; /* Ensure the image fits within the viewport */
-  }
-</style>
-</head>
-<body>
-  <!-- Single image in PNG format -->
-  <img src="MIB_logo_Transparent.png" alt="Image">
-</body>
-</html>
+#Bircoc
+
+This is a site that is going to give information about meshtastic in Bir
